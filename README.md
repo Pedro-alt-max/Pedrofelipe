@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm developer from back end<br><br>- 🔭 I’m working as developer back end<br>- 📚 I'm currently learning Djngo, PHP and Lravel<br>- ⚡ In my free time I'm guitar player and spearfishing</p>
+<p align="left">I'm developer from back end<br><br>- 🔭 I’m working as developer back end<br>- 📚 I'm currently learning Django, PHP and Laravel<br>- ⚡ In my free time I'm guitar player and spearfishing</p>
 
 ###
 
